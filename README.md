@@ -66,15 +66,6 @@ currently_learning:
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
----
-
-## Öne Çıkan Projeler
-
-| Proje | Açıklama | Teknoloji |
-|-------|----------|-----------|
-| [thy-bilet-bot](https://github.com/EserOmer/thy-bilet-bot) | Telegram üzerinden Turkish Airlines uçuş sorgulayan AI destekli bot | Python · Playwright · Telegram |
-
----
 
 ## GitHub İstatistikleri
 
