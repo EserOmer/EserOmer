@@ -2,10 +2,10 @@
 
 # Ömer Eser
 
-**Site Reliability Engineer**
+**Backend Developer → SRE Yolculuğu**
 
-*Canlı sistemlerin kararlılığını korur, otomasyon ile tekrarlı işleri ortadan kaldırır,*
-*AI destekli araçlarla mühendislik hızını artırır.*
+*.NET / C# temelli bir backend geçmişinden yola çıkarak*
+*altyapı otomasyonu, gözlemlenebilirlik ve AI destekli araçlara geçiş yapıyorum.*
 
 [![Website](https://img.shields.io/badge/Website-eseromer.github.io-0A0A0A?style=flat&logo=github&logoColor=white)](https://eseromer.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omereser)
@@ -18,55 +18,59 @@
 ## Hakkımda
 
 ```yaml
-role: Site Reliability Engineer
-focus:
-  - Canlı sistem sağlığı ve gözlemlenebilirlik
+background:
+  - C# / .NET backend geliştirme
+  - REST API tasarımı ve katmanlı mimari
+  - SQL ve veri modelleme
+
+transitioning_to:
+  - SRE ve DevOps pratikleri
   - Altyapı otomasyonu ve IaC
-  - AI destekli yazılım geliştirme
-currently_learning:
-  - LLM tabanlı otomasyon araçları
-  - Gelişmiş Kubernetes operatörleri
+  - Gözlemlenebilirlik ve sistem sağlığı
+
+building_now:
+  - Python ile otomasyon botları (YouTube, bilet takip)
+  - AI destekli araçlar ve LLM entegrasyonları
 ```
 
 ---
 
 ## Teknoloji Yığını
 
-**Gözlemlenebilirlik & SRE**
+**Güçlü Olduğum Alan — Backend**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat&logo=pagerduty&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Altyapı & Konteyner**
+**Aktif Öğrendiğim Alan — SRE & DevOps**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-
-**Bulut**
-
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-**Diller & Otomasyon**
+**Otomasyon & AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-**CI/CD**
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
-
-**AI & LLM**
-
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
+---
+
+## Öne Çıkan Projeler
+
+| Proje | Açıklama | Teknoloji |
+|---|---|---|
+| [LinqExpressionBuilder](https://github.com/EserOmer/LinqExpressionBuilder) | LINQ için dinamik arama expression üreticisi | C# |
+| [TesodevBEChallange](https://github.com/EserOmer/TesodevBEChallange) | Sipariş yönetim uygulaması backend challenge | C# |
+| yt-shorts-bot *(private)* | YouTube Shorts otomatik yayın botu + zamanlayıcı | Python |
+| thy-bilet-bot *(private)* | THY bilet takip ve uyarı botu | Python |
+
+---
 
 ## GitHub İstatistikleri
 
@@ -81,6 +85,6 @@ currently_learning:
 
 <div align="center">
 
-*"Reliability is not a feature — it's a discipline."*
+*"Kod yazmayı öğrenmek bir başlangıç — sistemleri çalışır tutmayı öğrenmek ise asıl meslek."*
 
 </div>
