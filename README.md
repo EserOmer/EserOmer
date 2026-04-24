@@ -7,6 +7,7 @@
 *Canlı sistemlerin kararlılığını korur, otomasyon ile tekrarlı işleri ortadan kaldırır,*
 *AI destekli araçlarla mühendislik hızını artırır.*
 
+[![Website](https://img.shields.io/badge/Website-eseromer.github.io-0A0A0A?style=flat&logo=github&logoColor=white)](https://eseromer.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omereser)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EserOmer)
 
