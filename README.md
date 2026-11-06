@@ -17,7 +17,7 @@
 
 ### Merhaba, ben Ömer
 
-Bankacılık ve havacılıkta kritik sistemlerin **7/24 ayakta kalmasını** sağlayan bir Site Reliability Engineer'ım. 4 yılı aşkın süredir **APM ve gözlemlenebilirlik** üzerinde çalışıyorum; şu an Turkish Technology'de Turkish Airlines'ın mürettebat yönetim sistemi (CMS) için izleme, olay müdahalesi ve operasyonel otomasyon yapıyorum. Öncesinde .NET backend geliştirdim, bu yüzden bir sorunu grafikte değil kodda da arayabiliyorum.
+Bankacılık ve havacılıkta kritik sistemlerin **7/24 ayakta kalmasını** sağlayan bir Site Reliability Engineer'ım. 4 yılı aşkın süredir **APM ve gözlemlenebilirlik** üzerinde çalışıyorum; şu an Turkish Technology'de Turkish Airlines'ın mürettebat yönetim sistemi (CMS) için izleme, olay müdahalesi ve operasyonel otomasyon yapıyorum. Öncesinde VakıfBank'ta sistem dayanıklılığı ve uygulama performans mühendisliği üzerine çalıştım; kariyerime .NET backend geliştirici olarak başladım, bu yüzden bir sorunu grafikte değil kodda da arayabiliyorum.
 
 <table>
   <tr>
