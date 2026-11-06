@@ -38,26 +38,27 @@ Bankacılık ve havacılıkta kritik sistemlerin **7/24 ayakta kalmasını** sa�
 
 ### Deneyim
 
-| Dönem | Rol | Şirket |
-| :-- | :-- | :-- |
-| **2023 – bugün** | Site Reliability Engineer | **Turkish Technology** · İstanbul |
-| 2022 – 2023 | Jr. Systems Resiliency &amp; Application Performance Engineer | **VakıfBank** · İstanbul |
-| 2021 – 2022 | Software Developer (Stajyer) | **TEMSA** · Adana |
-| 2021 | Software Developer | **Novartz Bilişim** · Adana |
+**Site Reliability Engineer** · Turkish Technology · *Kas 2023 – bugün · İstanbul*
+- Turkish Airlines'ın mürettebat yönetim sistemi (CMS) için 7/24 uygulama performans yönetimi ve olay müdahalesi
+- Dynatrace, Grafana, ELK, Graylog ve Splunk yapılandırma ve yönetimi; Filebeat 9 ile CMS gözlemlenebilirlik altyapısı
+- Node-RED izleme otomasyonları, Grafana performans panoları ve problem kayıtlarını takip eden PR-Tower botu
+
+**Jr. Systems Resiliency &amp; Application Performance Engineer** · VakıfBank · *Haz 2022 – Haz 2023 · İstanbul*
+- Dynatrace, AppInternals, ELK ve Ansible AWX ile uygulama performans yönetimi; 7/24 APM desteği, araç yapılandırma ve yönetimi
+- Performans iyileştirme ve geliştirme analizleri, kaynak kod analizi
+- Riverbed AppResponse ile ağ performansı izleme; iç kullanım için uçtan uca uygulama geliştirme
+
+**Software Developer (Stajyer)** · TEMSA · *Eyl 2021 – Oca 2022 · Adana*
+- Dağınık eski servisleri DDD ve temiz kod prensipleriyle yeni bir framework'e taşıma
+
+**Software Developer** · Novartz Bilişim · *Şub 2021 – Eyl 2021 · Adana*
+- .NET Core, Web API, Blazor WebAssembly ve EF Core ile müşteri projeleri
 
 <details>
-  <summary><b>Ayrıntılar ve önceki stajlar</b></summary>
+  <summary><b>Önceki stajlar ve eğitim</b></summary>
   <br>
 
-**Turkish Technology** — 7/24 APM desteği ve olay müdahalesi; Dynatrace, Grafana, ELK, Graylog, Splunk yönetimi; Filebeat 9 ile CMS gözlemlenebilirlik altyapısı; Node-RED izleme otomasyonları ve Grafana performans panoları; problem kayıtlarını takip eden PR-Tower botu.
-
-**VakıfBank** — Dynatrace, AppInternals, ELK ve Ansible AWX ile APM; performans ve kaynak kod analizi; Riverbed AppResponse ile ağ performansı izleme.
-
-**TEMSA** — Dağınık eski servisleri DDD ve temiz kod prensipleriyle yeni bir framework'e taşıma (Temsa Web Services, Rest Service, Campus, WeAll).
-
-**Novartz Bilişim** — .NET Core, Web API, Blazor WebAssembly ve EF Core ile müşteri projeleri.
-
-Önceki stajlar: Program Bilişim (2018), Donanımsoft Bilgisayar (2017), PTT AŞ (2015–2016).
+Stajlar: Program Bilişim (2018), Donanımsoft Bilgisayar (2017), PTT AŞ (2015–2016).
 
 **Eğitim:** Düzce Üniversitesi — Bilgisayar Mühendisliği (bir yıl erken mezuniyet)
 
@@ -101,16 +102,16 @@ Bankacılık ve havacılıkta kritik sistemlerin **7/24 ayakta kalmasını** sa�
 
 <table>
   <tr>
-    <td width="55%">
+    <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EserOmer&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0D1117&title_color=3DD6B5&icon_color=3DD6B5">
-        <img src="https://github-readme-stats.vercel.app/api?username=EserOmer&show_icons=true&hide_border=true&count_private=true&title_color=0F8A72&icon_color=0F8A72" alt="GitHub istatistikleri" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+        <img src="./assets/stats-light.svg" alt="GitHub istatistikleri" width="100%">
       </picture>
     </td>
-    <td width="45%">
+    <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EserOmer&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=3DD6B5">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EserOmer&layout=compact&hide_border=true&title_color=0F8A72" alt="En çok kullanılan diller" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/langs-dark.svg">
+        <img src="./assets/langs-light.svg" alt="En çok kullanılan diller" width="100%">
       </picture>
     </td>
   </tr>
