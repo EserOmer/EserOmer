@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ömer — OPS / SRE Engineer">
+  <rect width="1200" height="300" rx="20" fill="#0E1116"/>
+  <g stroke="#1C232C" stroke-width="1">
+    <path d="M700 0V300M760 0V300M820 0V300M880 0V300M940 0V300M1000 0V300M1060 0V300M1120 0V300"/>
+    <path d="M680 40H1200M680 100H1200M680 160H1200M680 220H1200M680 280H1200"/>
+  </g>
+  <polyline points="700,210 760,200 820,214 880,150 940,170 1000,96 1060,118 1120,70 1180,84" fill="none" stroke="#3DD6B5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1000" cy="96" r="7" fill="#F5C46B"/>
+  <text x="64" y="96" fill="#3DD6B5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">$ whoami</text>
+  <text x="64" y="172" fill="#E6EAF0" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="700">Ömer ESER</text>
+  <text x="64" y="224" fill="#9AA4B2" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26">Site Reliability Engineer · APM · Gözlemlenebilirlik</text>
+</svg>
